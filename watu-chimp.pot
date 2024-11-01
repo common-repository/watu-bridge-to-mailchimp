@@ -1,0 +1,114 @@
+# Copyright (C) 2015 Watu to MailChimp Bridge
+# This file is distributed under the same license as the Watu to MailChimp Bridge package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Watu to MailChimp Bridge 0.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/watu-chimp\n"
+"POT-Creation-Date: 2015-12-01 10:09:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: models/basic.php:25
+msgid "Watu to MailChimp"
+msgstr ""
+
+#. #-#-#-#-#  watu-chimp.pot (Watu to MailChimp Bridge 0.9)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: views/main.html.php:2
+msgid "Watu to MailChimp Bridge"
+msgstr ""
+
+#: views/main.html.php:4
+msgid ""
+"This bridge lets you automatically subscribe users who take your exams into "
+"select list in MailChimp. You need to know your MailChimp API key."
+msgstr ""
+
+#: views/main.html.php:6
+msgid ""
+"Note that in order to have quiz taker subscribed you need their email "
+"address. So this will work the user is logged or (for non-logged in users) "
+"when you have selected \"Send email to the user with their results\" in the "
+"exam settings page."
+msgstr ""
+
+#: views/main.html.php:8
+msgid ""
+"Subscribers will be added to your MailChimp mailing list only after they "
+"confirm their email!"
+msgstr ""
+
+#: views/main.html.php:11
+msgid "Your MailChimp API Key:"
+msgstr ""
+
+#: views/main.html.php:12
+msgid ""
+"Do not require email confirmation (Abusing this may cause your MailChimp "
+"account to be suspended.)"
+msgstr ""
+
+#: views/main.html.php:13
+msgid "Save Settings"
+msgstr ""
+
+#: views/main.html.php:18
+msgid ""
+"You will not be able to add any rules until you enter your MailChimp API Key."
+msgstr ""
+
+#: views/main.html.php:22
+msgid "We couldn't retrieve any mailing lists from your MailChimp account."
+msgstr ""
+
+#: views/main.html.php:24
+msgid "We got this error from MailChimp:"
+msgstr ""
+
+#: views/main.html.php:26
+msgid "Raw MailChimp response (debug)"
+msgstr ""
+
+#: views/main.html.php:30
+msgid "Add New Rule"
+msgstr ""
+
+#: views/main.html.php:34 views/main.html.php:70
+msgid "When user completes"
+msgstr ""
+
+#: views/main.html.php:40 views/main.html.php:77
+msgid "achieving the following grade:"
+msgstr ""
+
+#: views/main.html.php:43 views/main.html.php:80 views/main.html.php:123
+msgid "- Any grade -"
+msgstr ""
+
+#: views/main.html.php:51 views/main.html.php:88
+msgid "subscribe them to mailing list"
+msgstr ""
+
+#: views/main.html.php:57
+msgid "Add Rule"
+msgstr ""
+
+#: views/main.html.php:63
+msgid "Manage Existing Rules"
+msgstr ""
+
+#: views/main.html.php:95
+msgid "Save Rule"
+msgstr ""
+
+#: views/main.html.php:96
+msgid "Delete Rule"
+msgstr ""
+
+#: views/main.html.php:106
+msgid "Are you sure?"
+msgstr ""
